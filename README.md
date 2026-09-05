@@ -24,12 +24,16 @@ Option 1: Download ZIP File
 Option 2: Clone with Git
 - Click on the green button "Code", and select the HTTPS tab. Click "Copy URL to clipboard" on the right to copy the url https://github.com/wgongUC/MSCS532_Assignment1.git. 
 - In Windows, open a terminal window and run this command:
+    ```bash
     git clone https://github.com/wgongUC/MSCS532_Assignment1.git
+    ```
 - A new project folder will be created in the current terminal location. 
 - In Visual Studio Code, select File > Open Folder and select the project folder that was created.
 
 3. To run the program in Visual Studio Code, select Terminal > New Terminal and run the following command:
-   python Insertion_Sort_Decreasing_Order.py
+    ```bash
+    python Insertion_Sort_Decreasing_Order.py
+    ```
 The terminal will display the input list for the program, and the output of the program which is the sorted list.
 
 4. To test the program with custom inputs, edit the numbers in the numbers_arr array in Insertion_Sort_Decreasing_Order.py, then save the program file, and run it.
