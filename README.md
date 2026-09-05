@@ -44,6 +44,8 @@ The terminal will display the input list for the program, and the output of the 
 ## Example Output
 [71, 56, 20, 12, 9, 8, 6, 5, 5, 4, 3, 2, 1]
 
+![Program output](output.png)
+
 ## Time Complexity
 The best-case time complexity is Θ(n). The average-case and worst-case time complexities are Θ(n²).
 
